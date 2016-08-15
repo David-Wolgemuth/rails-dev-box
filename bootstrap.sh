@@ -56,4 +56,6 @@ install 'ExecJS runtime' nodejs
 # Needed for docs generation.
 update-locale LANG=en_US.UTF-8 LANGUAGE=en_US.UTF-8 LC_ALL=en_US.UTF-8
 
+gem install rails -v 4.2.6 --no-ri --no-rdoc
+
 echo 'all set, rock on!'
