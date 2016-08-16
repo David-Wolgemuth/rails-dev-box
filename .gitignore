@@ -1,2 +1,6 @@
+
+.DS_Store
 .vagrant
-rails
+
+rails-projects/*
+!rails-projects/README.md
